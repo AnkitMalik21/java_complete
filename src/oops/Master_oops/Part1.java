@@ -1,4 +1,4 @@
-package oops.video1_Master_oops;
+package oops.Master_oops;
 
 //oops is a programming paradims
 class Car{

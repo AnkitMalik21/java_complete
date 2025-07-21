@@ -1,4 +1,4 @@
-package oops.video2_Method_in_java;
+package oops.Method_in_java;
 
 class Animal{
     String name;

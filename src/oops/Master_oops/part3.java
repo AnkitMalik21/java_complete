@@ -1,4 +1,4 @@
-package oops.video1_Master_oops;
+package oops.Master_oops;
 //inheritance
 class Animal{
     String name;

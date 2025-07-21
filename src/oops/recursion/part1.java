@@ -1,4 +1,4 @@
-package oops.video3_recursion;
+package oops.recursion;
 //recursion
 //when a function call itself
 

@@ -1,4 +1,4 @@
-package oops.video2_Method_in_java;
+package oops.Method_in_java;
 
 public class part4 {
     public static void main(String[] args) {

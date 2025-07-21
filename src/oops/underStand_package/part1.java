@@ -1,4 +1,4 @@
-package oops.video4_underStand_package;
+package oops.underStand_package;
 
 //package are folder where classes are organised
 

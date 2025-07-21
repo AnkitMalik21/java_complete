@@ -1,4 +1,4 @@
-package oops.video1_Master_oops;
+package oops.Master_oops;
 
 //we are hiding data and bundling them
 //this is called encapsulation which is bundling of a data  into s single unit
